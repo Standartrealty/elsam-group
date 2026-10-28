@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow: /page102257306.html
+Disallow: /header
+Disallow: /page102257346.html
+Disallow: /footer
+Disallow: /page104117366.html
+Disallow: /not-found
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow:
+
+
+Sitemap: https://elsamgroup.ru/sitemap.xml
